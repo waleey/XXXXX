@@ -28,7 +28,7 @@ $$ \vec{v} = \frac{d\vec{r}}{dt} = \frac{d}{dt} (x\hat{i} + y\hat{j}) $$
            $$ \vec{a} = a_x\hat{i} + a_y\hat{j} $$
            $$ a_x= \frac{dv_x}{dt} =\frac{d^2_x}{dt^2}$$
            $$ a_y = \frac(dv_y}{dt} = \frac{d^2_y}{dt^2}$$
-## সমতলীয় গতির সাধারণ সমীকরন
+
 
  
 
